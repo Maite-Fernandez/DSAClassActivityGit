@@ -1,3 +1,5 @@
 Hello world,
 This is my first try to create a Git repository.
 Yellow this is my first commit in github repository-aka krunal
+Mellow this is my second commit from git bash and not github gui repository-aka krunal
+
